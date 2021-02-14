@@ -1,0 +1,18 @@
+#Group1
+User-agent: *
+Allow: /index.html
+Disallow: /articles.html
+Disallow: /forum.html
+Disallow: /test.html
+
+#Group2
+User-agent: anothercrawler
+Disallow: /
+
+#Group3
+User-agent: Googlebot
+Disallow: /*.jpeg$
+
+Sitemap: http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/sitemap.xml
+
+

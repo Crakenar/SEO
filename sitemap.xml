@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/index.html</loc>
+
+        <lastmod>2021-02-14</lastmod>
+
+        <changefreq>daily</changefreq>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/caroussel/2131780.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/caroussel/monter-son-pc-soi-meme-tutoriel-montage-pc.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/caroussel/Halo_4_Cover.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/dead-cells.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/assassinscreed3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/cyberpunk.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/minecraft.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/csgo.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/wwwroot/img/item-accueil/tomb-raider.jpg</image:loc>
+        </image:image>
+    </url>
+
+    <url>
+
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/Views/articles.html</loc>
+
+        <changefreq>weekly</changefreq>
+
+    </url>
+
+    <url>
+
+        <loc>http://www.example.com/catalog?item=73&amp;desc=vacation_new_zealand</loc>
+
+        <lastmod>2021-02-14</lastmod>
+
+        <changefreq>weekly</changefreq>
+
+        <priority>0.8</priority>
+
+    </url>
+
+    <url>
+
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/Views/forum.html</loc>
+
+        <changefreq>daily</changefreq>
+
+        <priority>0.2</priority>
+
+    </url>
+
+    <url>
+
+        <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~berguert/seo/Views/test.html</loc>
+
+        <lastmod>2021-02-14</lastmod>
+
+    </url>
+
+</urlset>
+
